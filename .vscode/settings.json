@@ -1,0 +1,15 @@
+{
+    "workbench.colorCustomizations": {
+        "folderPathColor.custom1": "#FF4488",
+        "folderPathColor.custom2": "#b7ff8e",
+        "folderPathColor.custom3": "#42d6ff",
+        "folderPathColor.custom4": "#007efd"
+    },
+    "folder-path-color.folders": [
+        { "path": "config", "color": "custom4", "symbol": "C" },
+        { "path": "public", "color": "custom3", "symbol": "PB" },
+        { "path": "src/adminjs", "color": "custom2", "symbol": "AD" },
+        { "path": "src/database", "color": "yellow", "symbol": "DB" },
+        { "path": "src/models", "color": "custom1", "symbol": "M" }
+    ]
+}
